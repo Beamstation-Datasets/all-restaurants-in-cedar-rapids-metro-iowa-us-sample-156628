@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0b3a78f5-f7cf-4ee3-95f2-3702bc00a551",
+  "id_short": 156628,
+  "published_at": "2026-04-11T07:03:52Z",
+  "repo_name": "all-restaurants-in-cedar-rapids-metro-iowa-us-sample-156628",
+  "sample_asset_name": "beamstation_156628_restaurants-us-cedarrapidsia_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/156628/beamstation_156628_restaurants-us-cedarrapidsia_SAMPLE_DIST.csv",
+  "sample_records": 56,
+  "sample_sha256": "309ca30ae40d9bc0b610591d8c144efc593990bb2f21d9e68afd541d81d7f352",
+  "sample_size_bytes": 207144,
+  "total_records": 564
+}
