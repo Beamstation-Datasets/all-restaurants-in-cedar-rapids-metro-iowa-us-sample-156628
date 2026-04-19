@@ -9,9 +9,9 @@
 | Dataset ID | `156628` |
 | Location | Cedar Rapids, IA |
 | Category | Restaurants |
-| Full dataset size | 564 records |
-| Free sample size | 56 records (9.93%) |
-| Last export | 2026-04-09T09:28:37.430776+00:00 |
+| Full dataset size | 561 records |
+| Free sample size | 56 records (9.98%) |
+| Last export | 2026-04-16T09:28:02.208503+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cedar-rapids-metro-iowa-us-sample-156628/releases/download/sample-latest/beamstation_156628_restaurants-us-cedarrapidsia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
