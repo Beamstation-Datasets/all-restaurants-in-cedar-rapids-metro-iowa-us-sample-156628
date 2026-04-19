@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant market intelligence for the Cedar Rapids (Metro), Iowa metro, including Cedar Rapids. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Cedar Rapids (Metro), Iowa, US",
-  "export_job_id": "0b3a78f5-f7cf-4ee3-95f2-3702bc00a551",
+  "export_job_id": "dfe95031-102f-48be-89e9-877248f11853",
   "github_org": "Beamstation-Datasets",
   "id_short": 156628,
   "location_name": "Cedar Rapids, IA",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-cedar-rapids-metro-iowa-us-sample-156628",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/156628/beamstation_156628_restaurants-us-cedarrapidsia_SAMPLE_DIST.csv",
-  "sample_pct": 9.93,
+  "sample_pct": 9.98,
   "sample_records": 56,
-  "sample_sha256": "309ca30ae40d9bc0b610591d8c144efc593990bb2f21d9e68afd541d81d7f352",
-  "sample_size_bytes": 207144,
-  "total_records": 564,
-  "updated_at": "2026-04-09T09:28:37.430776+00:00"
+  "sample_sha256": "df30e400048367077c637a1d9747b0c5c57a66d7cec017651b368d73118af130",
+  "sample_size_bytes": 215966,
+  "total_records": 561,
+  "updated_at": "2026-04-16T09:28:02.208503+00:00"
 }
